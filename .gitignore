@@ -1,0 +1,3 @@
+*.swp
+*.pyc
+cifar10/cifar10_train/
