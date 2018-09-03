@@ -4,9 +4,7 @@ This code is an unofficial tensorflow reproduction of the optimizer implemented 
 
 João F. Henriques, Sebastien Ehrhardt, Samuel Albanie, Andrea Vedaldi
 **["Small steps and giant leaps: Minimal Newton solvers for Deep Learning"](https://arxiv.org/abs/1805.08095)**
-arXiv preprint, 2018
-
-with official [repository](https://github.com/jotaf98/curveball).
+arXiv preprint, 2018, with official [repository](https://github.com/jotaf98/curveball).
 
 ### Requirement
 
